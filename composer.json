@@ -1,0 +1,17 @@
+{
+  "name": "DawidMazurek/php-sentiment-analysis",
+  "type": "project",
+  "description": "Text messages sentiment analysis",
+  "license": "MIT",
+  "keywords": ["machine learning","sentiment analysis"],
+  "homepage": "https://github.com/DawidMazurek/php-sentiment-analysis",
+  "authors": [
+    {
+      "name": "Dawid Mazurek",
+      "email": "dawid.mazurek@hotmail.com"
+    }
+  ],
+  "require": {
+    "php-ai/php-ml": "dev-master"
+  }
+}
