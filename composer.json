@@ -12,6 +12,7 @@
     }
   ],
   "require": {
+    "php": "^7.0",
     "php-ai/php-ml": "dev-master"
   }
 }
